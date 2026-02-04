@@ -1,7 +1,7 @@
 # dev-protfolio-Gyana
 A Java-based project demonstrating core programming concepts, object-oriented principles, and clean coding practices.
 
-## Topics Covered
+## Topics 
 - Java Basics (variables, loops, conditionals)
 - Object-Oriented Programming (OOP)
 - Collections Framework
